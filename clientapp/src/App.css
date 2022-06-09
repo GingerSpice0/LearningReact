@@ -3,6 +3,19 @@
   background: yellow;
 }
 
+.PlayArea {
+  background: #e0e0e0;
+  border: 1px solid green;
+  width: 500px;
+  height: 300px;
+}
+
+.FooDiv1 {
+  background: blue;
+  color: white;
+  font-size: 42px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
